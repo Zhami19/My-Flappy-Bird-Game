@@ -11,5 +11,5 @@ learned the very basics of UI creation: a menu screen with "Play" and "Quit" but
 This is the very first video game I ever created.
 
 - <b>Hotaru Wants Heaven</b>
-  - [Hotaru Wants Heaven (Playthrough)](https://drive.google.com/file/d/1LVxv7oV8ImUjFN8_wcrka0D4SRIBM8qa/view?usp=sharing)
+  - [Hotaru Wants Heaven (Playthrough)](https://drive.google.com/file/d/1nwkhaD1EiO1mpxwYaBYZ5KyqFHA4hoUp/view?usp=sharing)
 
